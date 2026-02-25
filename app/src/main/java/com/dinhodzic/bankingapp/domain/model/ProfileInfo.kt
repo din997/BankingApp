@@ -1,4 +1,4 @@
-package com.dinhodzic.bankingapp
+package com.dinhodzic.bankingapp.domain.model
 
 data class ProfileInfo(
     val id: String,
