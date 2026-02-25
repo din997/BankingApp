@@ -1,7 +1,5 @@
 package com.dinhodzic.bankingapp.domain.model
 
-import com.dinhodzic.bankingapp.ProfileInfo
-
 data class BankingProfile(
     val id: Int,
     val name: String,
